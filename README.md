@@ -83,8 +83,9 @@ The AI analyst has narrow, read-only tools for vendor and budget context. Determ
 `Python` · `FastAPI` · `OpenAI Agents SDK` · `Tool use` · `Structured outputs` · `Human-in-the-loop` · `Evals` · `Audit events` · `Docker` · `GitHub Actions`
 
 [![Explore Project](https://img.shields.io/badge/Explore-Controlled_Procurement_Agent-0F766E?style=flat-square&logo=github)](https://github.com/GonzAlex9/controlled-procurement-agent)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-22C55E?style=flat-square&logo=render&logoColor=white)](https://controlled-procurement-agent.onrender.com/demo)
 
-**12/12 automated tests · 5/5 deterministic regression evals · CI passing**
+**12/12 automated tests · 5/5 deterministic regression evals · CI passing · public interactive demo**
 
 ### 🏢 Enterprise digital transformation — IOBOX SL
 
