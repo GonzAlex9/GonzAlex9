@@ -1,255 +1,192 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/header.svg" alt="Alex González — AI Engineering, Digital Transformation and Technical Leadership" width="100%" />
+</p>
 
-# Alex González
+<p align="center">
+  <a href="https://www.linkedin.com/in/alex-gonz%C3%A1lez-jubany-0a6191170/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Current-IT_Project_Director_%2F_CIO-111827?style=flat-square" alt="IT Project Director / CIO" />
+  <img src="https://img.shields.io/badge/Focus-Applied_AI_%26_Agentic_Systems-6D28D9?style=flat-square" alt="Applied AI and Agentic Systems" />
+</p>
 
-### AI & Digital Transformation · Applied AI Engineering · Technical Leadership
+## I build technology around how businesses actually work
 
-**Turning business inefficiencies into software, automation and AI-powered systems.**
+I'm a **Computer Engineer, IT Project Director and CIO** working at the intersection of **business operations, software engineering and applied AI**.
 
-Spain · Europe · Open to Switzerland & international opportunities
+My strongest skill is not a specific framework. It's understanding a process end to end, finding where time, information or decision quality is being lost, and turning that friction into a better system.
 
-[LinkedIn](https://www.linkedin.com/in/alex-gonz%C3%A1lez-jubany-0a6191170/)
+Today I'm especially focused on **Agentic AI and enterprise AI systems** — not isolated demos, but AI that can interact reliably with real workflows, tools, data and application state.
 
-</div>
+> **Business problem first. Architecture second. Technology third.**
 
----
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## About me
+### 🧠 AI Systems
 
-I'm a **Computer Engineer, IT Project Director and CIO** with a background spanning software development, IoT, enterprise systems, ERP implementation, process optimization and technical leadership.
+Agentic workflows  
+LLM applications  
+Tool use & integrations  
+Durable state  
+Evals & guardrails  
+Human-in-the-loop
 
-My work sits at the intersection of **business, technology and people**.
+</td>
+<td width="33%" valign="top">
 
-I specialize in understanding how a company actually operates, identifying inefficient processes and translating them into better systems — whether that means redesigning a workflow, integrating platforms, implementing an ERP, automating operations or applying AI.
+### ⚙️ Transformation
 
-Today, my main technical focus is **Applied AI and Agentic Systems**: exploring how LLMs, agents, tools, structured data and deterministic software can work together to solve real business problems.
+ERP / Odoo  
+Process redesign  
+Workflow automation  
+System integration  
+Operational digitization  
+Information flows
 
-> I am less interested in AI demos than in AI systems that can reliably operate inside real organizations.
+</td>
+<td width="33%" valign="top">
 
----
+### 🧭 Leadership
 
-## What I do
+Technical direction  
+Project execution  
+Team coordination  
+Vendors & budgets  
+Technology purchasing  
+Architecture decisions
 
-**AI & Agentic Systems**  
-Applied LLM systems, agents, tool use, workflow automation, structured state and human-AI collaboration.
+</td>
+</tr>
+</table>
 
-**Digital Transformation**  
-Process analysis, redesign, automation and implementation of technology across business operations.
+## Selected work
 
-**Enterprise Systems**  
-ERP, Odoo, integrations, information flows, operational systems and system architecture.
+### 🧠 LifeOS — AI-native personal operating system
 
-**Software Engineering**  
-Full-stack development, backend systems, APIs, integrations, databases, automation and cloud infrastructure.
+My current flagship engineering project is a **private system for coordinating tasks, learning and other life domains through structured state, automation and AI**.
 
-**Technical Leadership**  
-Project direction, technology strategy, team coordination, vendors, budgets and technology purchasing decisions.
+The interesting part is not the personal productivity layer. It's the architecture underneath:
 
----
+`agentic workflows` · `durable structured state` · `domain boundaries` · `deterministic adapters` · `schema validation` · `GitHub Actions` · `idempotency` · `optimistic concurrency` · `event logging`
 
-## Current role
+A sanitized public architecture case study is being prepared. **No private source code or personal data will be published.**
 
-### IT Project Director / CIO · IOBOX SL
-**2024 — Present**
+### 🏢 Enterprise digital transformation — IOBOX SL
 
-Leading the company's technology and digital transformation initiatives.
+**IT Project Director / CIO · 2024 — Present**
 
-My work includes:
+Leading technology and digital transformation initiatives across the company, including:
 
-- Company-wide digitalization and process improvement
 - Odoo ERP migration, implementation and continuous evolution
-- Analysis and redesign of operational processes
+- Business process analysis and redesign
 - Software and systems integration
-- Technical project management
-- Coordination of a technical team of up to 5 people
-- Technology vendor management
-- Budget and technology purchasing decisions
-- Infrastructure and system maintenance
-- Evaluation and adoption of new technologies
-- Increasing use of AI and automation across technical workflows
+- Technical project direction
+- Coordination of a team of up to **5 people**
+- Technology vendors, budgets and purchasing decisions
+- Infrastructure, maintenance and adoption of new technologies
+- Increasing application of AI and automation to internal workflows
 
-The role requires moving continuously between **business requirements, architecture, implementation and people management**.
+### ⚙️ Operational systems & process optimization — Conservas Dani
 
----
-
-## Previous experience
-
-### Business Process & IT Optimization · Conservas Dani
 **2021 — 2024**
 
-Worked across multiple areas of the organization identifying operational inefficiencies and implementing technological improvements.
+Worked across business operations to identify inefficient processes and implement technological improvements involving **fleet management, warehouses, ERP, internal systems and operational workflows**.
 
-Projects covered areas such as:
-
-`Fleet management` · `Warehouses` · `ERP` · `Internal systems` · `Operational workflows` · `Process digitalization`
-
-This experience reinforced one of the principles I still apply today:
-
-> Technology only creates value when it improves the underlying process.
-
-### IoT & Software Development · The World of Thor
-
-Started my professional career working with IoT and software projects adapted to real customer requirements.
-
-This gave me early exposure to the full lifecycle of technology projects: understanding a problem, designing a solution, developing it and deploying it into a real operational environment.
+Earlier in my career, I worked on **IoT and software projects at The World of Thor**, developing and implementing solutions around real customer requirements.
 
 ---
 
-## AI Engineering
+## How I approach a problem
 
-AI is currently my main area of continuous specialization.
+```text
+Business friction
+      ↓
+Understand the real process
+      ↓
+Find bottlenecks, duplication and weak decisions
+      ↓
+Choose the right lever
+      ├── Better process
+      ├── Conventional software
+      ├── Automation
+      └── AI / agentic capability
+      ↓
+Integrate with the existing business
+      ↓
+Measure → learn → improve
+```
 
-I'm particularly interested in:
+I don't assume AI is always the answer. Some problems need an agent; others need a reliable API, a better data model, an ERP change or simply a better process.
 
-`Agentic AI` · `LLM applications` · `Tool use` · `AI automation` · `Context & state management` · `Evals` · `AI-assisted development` · `Enterprise AI` · `Human-in-the-loop systems` · `AI governance`
+That distinction matters.
 
-I continuously study new AI capabilities and evaluate them from an engineering and business perspective:
+## Current AI focus
 
-**What can this technology actually improve?**
+I'm continuously developing my understanding of:
 
-**What should be handled by AI and what should remain deterministic?**
+**Agentic AI · LLM applications · tool use · context & state management · evals · enterprise AI · AI-assisted development · human-AI collaboration · AI governance**
 
-**How should agents interact with existing business systems?**
+The questions I care about are increasingly practical:
 
-**How do we make AI systems observable, secure and maintainable?**
-
-**Where can AI create leverage rather than complexity?**
-
----
-
-## Flagship project — LifeOS
-
-One of my main personal engineering projects is **LifeOS** — a private system designed to coordinate different areas of my life through structured information, automation and AI.
-
-The project explores a broader question:
-
-> How can AI systems maintain useful continuity and interact safely with real application state without depending entirely on conversational memory?
-
-Its architecture currently explores concepts including:
-
-`Agentic workflows` · `Durable structured state` · `Explicit domain boundaries` · `Deterministic adapters` · `Schema validation` · `GitHub Actions` · `Automated synchronization` · `Idempotency` · `Optimistic concurrency` · `Event logging` · `Server-to-server integrations`
-
-The source code and personal data remain private.
-
-Only sanitized architectural concepts and engineering decisions are presented publicly.
-
----
+- How should agents interact with business systems safely?
+- What should remain deterministic?
+- How do we evaluate and observe AI behavior?
+- How do we preserve state and continuity without hiding critical logic inside a model?
+- Where does AI create leverage rather than additional complexity?
 
 ## Technology
 
-### AI & Automation
-Python · Agentic Systems · LLM Integrations · AI-assisted Development · Workflow Automation
+**AI & Automation**  
+`Python` · `LLM integrations` · `Agentic systems` · `Workflow automation`
 
-### Backend & Full Stack
-TypeScript · JavaScript · Java · Spring Framework · C# · .NET Framework · REST APIs
+**Application Engineering**  
+`TypeScript` · `JavaScript` · `Java` · `Spring` · `C#` · `.NET` · `REST APIs`
 
-### Data
-SQL · MongoDB · Data Modeling · System Integrations
+**Data & Infrastructure**  
+`SQL` · `MongoDB` · `Docker` · `Cloudflare` · `GitHub Actions` · `CI/CD`
 
-### Enterprise
-Odoo · ERP · Business Process Automation · Systems Integration
+**Enterprise & Foundations**  
+`Odoo` · `ERP` · `Systems integration` · `C` · `C++` · `IoT`
 
-### Infrastructure
-Docker · Cloudflare · Cloud Technologies · GitHub Actions · CI/CD
+I treat the stack as a means to an outcome, not as a professional identity.
 
-### Engineering foundations
-C · C++ · Software Architecture · Information Systems · IoT
+## Career snapshot
 
-Technology is a tool, not the objective. I choose stacks based on the problem being solved.
+| Period | Role / Focus | Scope |
+|---|---|---|
+| **2024 — Present** | **IT Project Director / CIO · IOBOX SL** | Digital transformation, Odoo ERP, technical leadership, vendors, budgets, systems |
+| **2021 — 2024** | **Business Process & IT Optimization · Conservas Dani** | Operations, fleet, warehouses, ERP, internal systems, process improvement |
+| **Earlier** | **IoT & Software Development · The World of Thor** | Customer-focused IoT and software solutions |
+| **Education** | **Computer Engineering — Management & Information Systems** | TecnoCampus Mataró |
 
----
+## Beyond a job title
 
-## How I think about technology
+The roles I'm most interested in are those where **AI, engineering, business transformation and leadership converge**:
 
-When analyzing a system or organization, I usually start with questions like:
+`AI Engineering` · `Applied AI` · `Agentic Systems` · `AI Transformation` · `Technical Leadership` · `Digital Transformation` · `Enterprise Automation`
 
-**Where is time being lost?**
+**Spain / Europe · Particularly interested in Switzerland · Remote, hybrid or on-site**
 
-**Where is information duplicated or manually transferred?**
-
-**Which processes exist because "we've always done it this way"?**
-
-**Which decisions can be automated?**
-
-**Where does human judgment actually create value?**
-
-**Can AI improve this process, or would conventional software be more reliable?**
-
-**How will the solution integrate with the systems already running the business?**
-
-Only then does technology selection begin.
-
----
-
-## Leadership
-
-My experience is not limited to implementation.
-
-I have coordinated teams of up to **5 people** and taken responsibility for:
-
-`Technical decisions` · `Project execution` · `Technology providers` · `Budgets` · `Software purchasing` · `ERP strategy` · `System evolution`
-
-My long-term direction is toward roles where **technology strategy, AI, engineering and business transformation converge**.
-
----
-
-## Education
-
-### Computer Engineering — Management & Information Systems
-**TecnoCampus Mataró**
-
-Academic background covering software engineering, information systems, databases, networks, systems architecture and technology management.
-
-Additional training and professional experience in **IoT and connected systems**.
-
----
-
-## Languages
-
-🇪🇸 Spanish — Native  
-🏴 Catalan — Native  
-🇬🇧 English — Upper-intermediate  
-🇫🇷 French — Basic
-
----
-
-## What I'm interested in
-
-I'm currently open to conversations around:
-
-**AI Engineering · Applied AI · Agentic Systems · AI Transformation · Technical Leadership · Digital Transformation · Enterprise Automation · Technology Management**
-
-I'm particularly interested in positions where I can combine **business understanding, engineering, AI and leadership**, rather than operating inside a single narrow technical silo.
-
-📍 Spain / Europe  
-🇨🇭 Particularly interested in opportunities in Switzerland  
-🌍 Remote, hybrid or on-site
-
----
+**Languages:** Spanish 🇪🇸 native · Catalan native · English 🇬🇧 upper-intermediate · French 🇫🇷 basic
 
 <details>
-<summary><b>🇪🇸 Sobre mí en español</b></summary>
+<summary><b>🇪🇸 Resumen en español</b></summary>
 
 <br>
 
-Soy Ingeniero Informático, Director de Proyectos Informáticos y CIO, especializado en conectar **tecnología, procesos empresariales y personas**.
+Soy **Ingeniero Informático, Director de Proyectos Informáticos y CIO**. Mi perfil combina desarrollo de software, sistemas empresariales, ERP/Odoo, optimización de procesos, digitalización, gestión de proyectos y liderazgo tecnológico.
 
-Mi experiencia abarca desarrollo de software, IoT, implantación de ERP, Odoo, optimización de procesos, digitalización empresarial, gestión de proyectos, proveedores, presupuestos y coordinación de equipos.
+Actualmente estoy especialmente centrado en **IA aplicada y sistemas agénticos**: cómo integrar agentes, LLMs, herramientas y estado estructurado dentro de sistemas reales de empresa de forma útil, observable y fiable.
 
-Actualmente estoy especialmente centrado en **Inteligencia Artificial aplicada y sistemas agénticos**, estudiando continuamente cómo incorporar las nuevas capacidades de la IA a procesos y sistemas reales de empresa.
-
-Mi objetivo no es aplicar IA por aplicar IA.
-
-Busco entender el problema, mejorar el proceso y utilizar la tecnología adecuada para generar un resultado real.
+Mi especialidad es entender cómo funciona un proceso, detectar dónde se pierde tiempo o información y diseñar una solución adecuada. A veces esa solución es IA; otras veces es software convencional, automatización, integración o rediseño del proceso.
 
 </details>
 
 ---
 
-<div align="center">
-
-### Business × Engineering × AI
-
-**Build systems. Improve processes. Create leverage.**
-
-</div>
+<p align="center">
+  <b>Business × Engineering × AI</b><br/>
+  <sub>Build reliable systems. Improve processes. Create leverage.</sub>
+</p>
