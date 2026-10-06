@@ -74,6 +74,18 @@ The interesting part is not the personal productivity layer. It's the architectu
 [![Architecture Case Study](https://img.shields.io/badge/Explore-Architecture_Case_Study-6D28D9?style=flat-square&logo=github)](https://github.com/GonzAlex9/lifeos-architecture)
 The public case study documents the architecture, reliability model and selected engineering decisions while keeping **private source code and personal data private**.
 
+### 🛡️ [Controlled Procurement Agent — enterprise agentic workflow](https://github.com/GonzAlex9/controlled-procurement-agent)
+
+A production-minded AI engineering project that explores how agents can add reasoning to an enterprise procurement workflow **without receiving business authority**.
+
+The AI analyst has narrow, read-only tools for vendor and budget context. Deterministic code owns policy thresholds, blocked vendors, security gates and required approvals; humans remain responsible for spend authorization.
+
+`Python` · `FastAPI` · `OpenAI Agents SDK` · `Tool use` · `Structured outputs` · `Human-in-the-loop` · `Evals` · `Audit events` · `Docker` · `GitHub Actions`
+
+[![Explore Project](https://img.shields.io/badge/Explore-Controlled_Procurement_Agent-0F766E?style=flat-square&logo=github)](https://github.com/GonzAlex9/controlled-procurement-agent)
+
+**10/10 automated tests · 5/5 deterministic regression evals · CI passing**
+
 ### 🏢 Enterprise digital transformation — IOBOX SL
 
 **IT Project Director / CIO · 2024 — Present**
