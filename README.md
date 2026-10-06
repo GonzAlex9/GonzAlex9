@@ -84,7 +84,7 @@ The AI analyst has narrow, read-only tools for vendor and budget context. Determ
 
 [![Explore Project](https://img.shields.io/badge/Explore-Controlled_Procurement_Agent-0F766E?style=flat-square&logo=github)](https://github.com/GonzAlex9/controlled-procurement-agent)
 
-**10/10 automated tests · 5/5 deterministic regression evals · CI passing**
+**11/11 automated tests · 5/5 deterministic regression evals · CI passing**
 
 ### 🏢 Enterprise digital transformation — IOBOX SL
 
