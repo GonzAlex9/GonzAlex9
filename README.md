@@ -71,7 +71,7 @@ The interesting part is not the personal productivity layer. It's the architectu
 
 `agentic workflows` · `durable structured state` · `domain boundaries` · `deterministic adapters` · `schema validation` · `GitHub Actions` · `idempotency` · `optimistic concurrency` · `event logging`
 
-[![Architecture Case Study](https://img.shields.io/badge/Explore-Architecture_Case_Study-6D28D9?style=flat-square&logo=github)](https://github.com/GonzAlex9/lifeos-architecture)\n\nThe public case study documents the architecture, reliability model and selected engineering decisions while keeping **private source code and personal data private**.
+[![Architecture Case Study](https://img.shields.io/badge/Explore-Architecture_Case_Study-6D28D9?style=flat-square&logo=github)](https://github.com/GonzAlex9/lifeos-architecture) \n\nThe public case study documents the architecture, reliability model and selected engineering decisions while keeping **private source code and personal data private**.
 
 ### 🏢 Enterprise digital transformation — IOBOX SL
 
