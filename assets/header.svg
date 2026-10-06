@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Alex González — AI, Digital Transformation and Technical Leadership</title>
+  <desc id="desc">Professional GitHub profile banner for Alex González.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="48%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="18%" r="62%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".16"/>
+      <stop offset="55%" stop-color="#8b5cf6" stop-opacity=".06"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#ffffff" stroke-opacity=".035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glow)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <rect x="64" y="54" width="76" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <text x="64" y="126" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1">Alex González</text>
+  <text x="64" y="172" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">AI Engineering  ×  Digital Transformation  ×  Technical Leadership</text>
+  <text x="64" y="220" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Turning business friction into reliable systems, automation and AI.</text>
+
+  <g transform="translate(64 252)">
+    <rect width="170" height="34" rx="17" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".10"/>
+    <circle cx="19" cy="17" r="5" fill="#34d399"/>
+    <text x="34" y="22" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Spain · Europe</text>
+  </g>
+
+  <g transform="translate(248 252)">
+    <rect width="184" height="34" rx="17" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".10"/>
+    <circle cx="19" cy="17" r="5" fill="#22d3ee"/>
+    <text x="34" y="22" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Open to Switzerland</text>
+  </g>
+
+  <g opacity=".95">
+    <circle cx="1008" cy="112" r="62" fill="none" stroke="#22d3ee" stroke-opacity=".22" stroke-width="2"/>
+    <circle cx="1008" cy="112" r="40" fill="none" stroke="#8b5cf6" stroke-opacity=".26" stroke-width="2"/>
+    <circle cx="1008" cy="112" r="17" fill="url(#accent)" opacity=".78"/>
+    <path d="M1008 50V28M1008 196v-22M946 112h-22M1092 112h-22M965 69l-16-16M1067 171l-16-16M1051 69l16-16M949 171l16-16"
+      stroke="#94a3b8" stroke-opacity=".24" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
