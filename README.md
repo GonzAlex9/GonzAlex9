@@ -7,43 +7,122 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Current-IT_Project_Director_%2F_CIO-111827?style=flat-square" alt="IT Project Director / CIO" />
-  <img src="https://img.shields.io/badge/Focus-Applied_AI_%26_Agentic_Systems-6D28D9?style=flat-square" alt="Applied AI and Agentic Systems" />
+  <img src="https://img.shields.io/badge/Focus-Applied_AI_%26_Enterprise_Transformation-6D28D9?style=flat-square" alt="Applied AI and Enterprise Transformation" />
 </p>
 
-## I build technology around how businesses actually work
+## Applied AI engineering for real business systems
 
-I'm a **Computer Engineer, IT Project Director and CIO** working at the intersection of **business operations, software engineering and applied AI**.
+I'm a **Computer Engineer, IT Project Director and CIO** working at the intersection of **applied AI, software engineering, business process transformation and technical leadership**.
 
-My strongest skill is not a specific framework. It's understanding a process end to end, finding where time, information or decision quality is being lost, and turning that friction into a better system.
+My focus is not simply making models produce good answers. I care about how AI fits into an enterprise system:
 
-Today I'm especially focused on **Agentic AI and enterprise AI systems** — not isolated demos, but AI that can interact reliably with real workflows, tools, data and application state.
+- where AI creates real leverage;
+- what should remain deterministic;
+- how models interact with tools and systems of record;
+- where humans retain authority;
+- how behavior is evaluated, observed and governed;
+- how technology translates into measurable process improvement.
 
 > **Business problem first. Architecture second. Technology third.**
+
+My public portfolio intentionally covers both sides of enterprise AI:
+
+**build reliable AI systems** + **decide where and how to deploy them responsibly**.
+
+---
+
+## Featured portfolio
+
+### 🛡️ [Controlled Procurement Agent](https://github.com/GonzAlex9/controlled-procurement-agent)
+
+**Applied AI engineering · Agentic systems · Enterprise controls**
+
+A production-minded procurement workflow that demonstrates how an AI analyst can add reasoning and explanation **without receiving business authority**.
+
+The model can inspect vendor and budget context through narrow read-only tools. Deterministic code owns policy, approval requirements and protected state; humans remain responsible for spend authorization.
+
+**Architecture**
+
+`Python` · `FastAPI` · `OpenAI Agents SDK` · `Structured outputs` · `Human-in-the-loop` · `MCP` · `OpenTelemetry` · `PostgreSQL` · `Docker` · `GitHub Actions`
+
+**Validated**
+
+**26/26 automated tests · 5/5 deterministic policy regression evals · 25/25 analyst behavior checks · 42/42 adversarial security checks · CI passing**
+
+[![Release](https://img.shields.io/badge/Release-v1.0.0-2563EB?style=flat-square&logo=github)](https://github.com/GonzAlex9/controlled-procurement-agent/releases/tag/v1.0.0)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-22C55E?style=flat-square&logo=render&logoColor=white)](https://controlled-procurement-agent.onrender.com/demo)
+[![Repository](https://img.shields.io/badge/Explore-Repository-0F766E?style=flat-square&logo=github)](https://github.com/GonzAlex9/controlled-procurement-agent)
+
+> **Core design principle:** reasoning is probabilistic; business authority is deterministic.
+
+---
+
+### 🏢 [Enterprise AI Transformation Blueprint](https://github.com/GonzAlex9/enterprise-ai-transformation-blueprint)
+
+**AI transformation · Architecture · Governance · Business value**
+
+A fictional end-to-end enterprise transformation case showing how I would move from **business-process discovery to a governed AI portfolio**, rather than starting from a model or chatbot.
+
+It covers:
+
+- process discovery and problem classification;
+- AI vs automation vs traditional software decisions;
+- use-case portfolio design;
+- value / feasibility / risk prioritization;
+- target enterprise AI architecture;
+- governance and risk tiers;
+- a 90-day delivery roadmap;
+- KPI and value measurement;
+- AI risk management.
+
+The central question is:
+
+> **Where can AI create measurable value without weakening control, security or accountability?**
+
+[![Explore Blueprint](https://img.shields.io/badge/Explore-Transformation_Blueprint-7C3AED?style=flat-square&logo=github)](https://github.com/GonzAlex9/enterprise-ai-transformation-blueprint)
+
+---
+
+### 🧠 [LifeOS Architecture Case Study](https://github.com/GonzAlex9/lifeos-architecture)
+
+An architecture case study derived from a private AI-native system, documenting selected engineering patterns while keeping **private source code and personal data private**.
+
+Topics include:
+
+`agentic workflows` · `durable structured state` · `domain boundaries` · `deterministic adapters` · `schema validation` · `idempotency` · `optimistic concurrency` · `event logging`
+
+[![Architecture Case Study](https://img.shields.io/badge/Explore-Architecture_Case_Study-6D28D9?style=flat-square&logo=github)](https://github.com/GonzAlex9/lifeos-architecture)
+
+---
+
+## What I bring
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🧠 AI Systems
+### 🧠 Applied AI
 
 Agentic workflows  
-LLM applications  
 Tool use & integrations  
-Durable state  
 Evals & guardrails  
-Human-in-the-loop
+Human-in-the-loop  
+MCP  
+Observability  
+Structured state
 
 </td>
 <td width="33%" valign="top">
 
 ### ⚙️ Transformation
 
+Process discovery  
 ERP / Odoo  
-Process redesign  
 Workflow automation  
 System integration  
 Operational digitization  
-Information flows
+AI use-case prioritization  
+Governance
 
 </td>
 <td width="33%" valign="top">
@@ -52,119 +131,97 @@ Information flows
 
 Technical direction  
 Project execution  
+Architecture decisions  
 Team coordination  
 Vendors & budgets  
 Technology purchasing  
-Architecture decisions
+Stakeholder alignment
 
 </td>
 </tr>
 </table>
 
-## Selected work
+---
 
-### 🧠 [LifeOS — AI-native personal operating system](https://github.com/GonzAlex9/lifeos-architecture)
+## Professional experience
 
-My current flagship engineering project is a **private system for coordinating tasks, learning and other life domains through structured state, automation and AI**.
+### IOBOX SL — IT Project Director / CIO
 
-The interesting part is not the personal productivity layer. It's the architecture underneath:
-
-`agentic workflows` · `durable structured state` · `domain boundaries` · `deterministic adapters` · `schema validation` · `GitHub Actions` · `idempotency` · `optimistic concurrency` · `event logging`
-
-[![Architecture Case Study](https://img.shields.io/badge/Explore-Architecture_Case_Study-6D28D9?style=flat-square&logo=github)](https://github.com/GonzAlex9/lifeos-architecture)
-The public case study documents the architecture, reliability model and selected engineering decisions while keeping **private source code and personal data private**.
-
-### 🛡️ [Controlled Procurement Agent — enterprise agentic workflow](https://github.com/GonzAlex9/controlled-procurement-agent)
-
-A production-minded AI engineering project that explores how agents can add reasoning to an enterprise procurement workflow **without receiving business authority**.
-
-The AI analyst has narrow, read-only tools for vendor and budget context. Deterministic code owns policy thresholds, blocked vendors, security gates and required approvals; humans remain responsible for spend authorization.
-
-`Python` · `FastAPI` · `OpenAI Agents SDK` · `Tool use` · `Structured outputs` · `Human-in-the-loop` · `Evals` · `Audit events` · `Docker` · `GitHub Actions`
-
-[![Explore Project](https://img.shields.io/badge/Explore-Controlled_Procurement_Agent-0F766E?style=flat-square&logo=github)](https://github.com/GonzAlex9/controlled-procurement-agent)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-22C55E?style=flat-square&logo=render&logoColor=white)](https://controlled-procurement-agent.onrender.com/demo)
-
-**26/26 automated tests · 5/5 deterministic regression evals · 25/25 analyst behavior checks · 42/42 adversarial security checks · CI passing · public interactive demo**
-
-### 🏢 Enterprise digital transformation — IOBOX SL
-
-**IT Project Director / CIO · 2024 — Present**
+**2024 — Present**
 
 Leading technology and digital transformation initiatives across the company, including:
 
-- Odoo ERP migration, implementation and continuous evolution
-- Business process analysis and redesign
-- Software and systems integration
-- Technical project direction
-- Coordination of a team of up to **5 people**
-- Technology vendors, budgets and purchasing decisions
-- Infrastructure, maintenance and adoption of new technologies
-- Increasing application of AI and automation to internal workflows
+- Odoo ERP migration, implementation and continuous evolution;
+- business-process analysis and redesign;
+- software and systems integration;
+- technical project direction;
+- coordination of a team of up to **5 people**;
+- technology vendors, budgets and purchasing decisions;
+- infrastructure, maintenance and adoption of new technologies;
+- increasing application of AI and automation to internal workflows.
 
-### ⚙️ Operational systems & process optimization — Conservas Dani
+### Conservas Dani — Business Process & IT Optimization
 
 **2021 — 2024**
 
 Worked across business operations to identify inefficient processes and implement technological improvements involving **fleet management, warehouses, ERP, internal systems and operational workflows**.
 
-Earlier in my career, I worked on **IoT and software projects at The World of Thor**, developing and implementing solutions around real customer requirements.
+### The World of Thor — IoT & Software Development
+
+Earlier in my career, I worked on IoT and software projects around real customer requirements.
 
 ---
 
-## How I approach a problem
+## How I approach transformation
 
 ```text
 Business friction
       ↓
 Understand the real process
       ↓
-Find bottlenecks, duplication and weak decisions
+Map decisions, data, systems and controls
       ↓
-Choose the right lever
-      ├── Better process
+Choose the right intervention
+      ├── Process redesign
       ├── Conventional software
-      ├── Automation
-      └── AI / agentic capability
+      ├── Workflow automation
+      ├── Analytics / ML
+      └── Applied AI
       ↓
-Integrate with the existing business
+Integrate with systems of record
       ↓
-Measure → learn → improve
+Evaluate + observe
+      ↓
+Measure business outcome
+      ↓
+Scale / redesign / stop
 ```
 
-I don't assume AI is always the answer. Some problems need an agent; others need a reliable API, a better data model, an ERP change or simply a better process.
+I don't assume AI is always the answer.
 
-That distinction matters.
+A threshold belongs in code. A repetitive handoff may need automation. A prediction problem may need ML. Unstructured reasoning, retrieval or synthesis may justify generative AI.
 
-## Current AI focus
+That distinction is part of the engineering.
 
-I'm continuously developing my understanding of:
-
-**Agentic AI · LLM applications · tool use · context & state management · evals · enterprise AI · AI-assisted development · human-AI collaboration · AI governance**
-
-The questions I care about are increasingly practical:
-
-- How should agents interact with business systems safely?
-- What should remain deterministic?
-- How do we evaluate and observe AI behavior?
-- How do we preserve state and continuity without hiding critical logic inside a model?
-- Where does AI create leverage rather than additional complexity?
+---
 
 ## Technology
 
-**AI & Automation**  
-`Python` · `LLM integrations` · `Agentic systems` · `Workflow automation`
+**Applied AI**  
+`Python` · `LLM integrations` · `Agentic systems` · `Tool calling` · `MCP` · `Evals` · `OpenTelemetry`
 
 **Application Engineering**  
-`TypeScript` · `JavaScript` · `Java` · `Spring` · `C#` · `.NET` · `REST APIs`
+`FastAPI` · `TypeScript` · `JavaScript` · `Java` · `Spring` · `C#` · `.NET` · `REST APIs`
 
 **Data & Infrastructure**  
-`SQL` · `MongoDB` · `Docker` · `Cloudflare` · `GitHub Actions` · `CI/CD`
+`SQL` · `PostgreSQL` · `MongoDB` · `Docker` · `GitHub Actions` · `CI/CD` · `Cloudflare`
 
 **Enterprise & Foundations**  
 `Odoo` · `ERP` · `Systems integration` · `C` · `C++` · `IoT`
 
 I treat the stack as a means to an outcome, not as a professional identity.
+
+---
 
 ## Career snapshot
 
@@ -175,11 +232,13 @@ I treat the stack as a means to an outcome, not as a professional identity.
 | **Earlier** | **IoT & Software Development · The World of Thor** | Customer-focused IoT and software solutions |
 | **Education** | **Computer Engineering — Management & Information Systems** | TecnoCampus Mataró |
 
-## Beyond a job title
+---
 
-The roles I'm most interested in are those where **AI, engineering, business transformation and leadership converge**:
+## Roles I'm targeting
 
-`AI Engineering` · `Applied AI` · `Agentic Systems` · `AI Transformation` · `Technical Leadership` · `Digital Transformation` · `Enterprise Automation`
+I'm particularly interested in roles where **AI, engineering, business transformation and technical leadership converge**:
+
+`Applied AI Engineer` · `AI Solutions Engineer` · `AI Architect` · `Technical Lead — Applied AI` · `AI Transformation Lead` · `Enterprise AI Consultant`
 
 **Spain / Europe · Particularly interested in Switzerland · Remote, hybrid or on-site**
 
@@ -190,11 +249,16 @@ The roles I'm most interested in are those where **AI, engineering, business tra
 
 <br>
 
-Soy **Ingeniero Informático, Director de Proyectos Informáticos y CIO**. Mi perfil combina desarrollo de software, sistemas empresariales, ERP/Odoo, optimización de procesos, digitalización, gestión de proyectos y liderazgo tecnológico.
+Soy **Ingeniero Informático, Director de Proyectos Informáticos y CIO**, con un perfil que combina **IA aplicada, ingeniería de software, transformación de procesos y liderazgo tecnológico**.
 
-Actualmente estoy especialmente centrado en **IA aplicada y sistemas agénticos**: cómo integrar agentes, LLMs, herramientas y estado estructurado dentro de sistemas reales de empresa de forma útil, observable y fiable.
+Mi foco actual está en cómo llevar sistemas de IA a entornos empresariales reales: decidir dónde aportan valor, integrarlos con datos y sistemas existentes, mantener las reglas críticas fuera del modelo, diseñar controles y medir resultados.
 
-Mi especialidad es entender cómo funciona un proceso, detectar dónde se pierde tiempo o información y diseñar una solución adecuada. A veces esa solución es IA; otras veces es software convencional, automatización, integración o rediseño del proceso.
+Mis dos proyectos públicos principales muestran ambas caras de ese trabajo:
+
+- **Controlled Procurement Agent:** profundidad técnica en sistemas agénticos, evals, guardrails, observabilidad, MCP y persistencia.
+- **Enterprise AI Transformation Blueprint:** discovery de procesos, priorización de casos de uso, arquitectura, governance, roadmap y medición de valor.
+
+No parto de la premisa de que todo problema necesite IA. Primero entiendo el proceso y después elijo la tecnología adecuada.
 
 </details>
 
@@ -202,5 +266,5 @@ Mi especialidad es entender cómo funciona un proceso, detectar dónde se pierde
 
 <p align="center">
   <b>Business × Engineering × AI</b><br/>
-  <sub>Build reliable systems. Improve processes. Create leverage.</sub>
+  <sub>Build reliable systems. Transform real processes. Measure value.</sub>
 </p>
